@@ -46,7 +46,7 @@ def send_email(to, subject, content):
 
 # Weather Function
 def get_weather():
-    api_key = "3ab54a56e36ce3e623d48ae2746df1c6"
+    api_key = "api key"
     base_url = "http://api.openweathermap.org/data/2.5/weather?"
     city_name = "Hyderabad"
     complete_url = f"{base_url}appid={api_key}&q={city_name}&units=metric"
