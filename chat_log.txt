@@ -1,0 +1,18 @@
+User: weather in Hyderabad
+Assistant: The weather in Hyderabad is overcast clouds with 26.28 degrees Celsius.
+
+User: weather in Hyderabad
+Assistant: The weather in Hyderabad is overcast clouds with 26.28 degrees Celsius.
+
+User: weather in Hyderabad
+Assistant: The weather in Hyderabad is overcast clouds with 27.06 degrees Celsius.
+
+User: weather in Hyderabad
+Assistant: The weather in Hyderabad is overcast clouds with 27.4 degrees Celsius.
+
+User: weather in Hyderabad
+Assistant: The weather in Hyderabad is overcast clouds with 27.4 degrees Celsius.
+
+User: weather in Hyderabad
+Assistant: The weather in Hyderabad is overcast clouds with 34.81 degrees Celsius.
+

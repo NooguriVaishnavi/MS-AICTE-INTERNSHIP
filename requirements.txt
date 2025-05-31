@@ -1,0 +1,7 @@
+
+pyttsx3
+speechrecognition
+openai
+googletrans==4.0.0rc1
+requests
+pyaudio
